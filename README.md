@@ -1,10 +1,9 @@
-# Learn To Code Resources
+# Learn To Code Online Resources
 
 ## Intro to Programming
 - [Codecombat](https://codecombat.com/)
 - [Code.org](https://studio.code.org/courses)
   - [Hour of Code](https://code.org/hourofcode/overview)
-- https://hackr.io/
 - http://codeasy.net
 - http://scratchx.org/
 - https://www.tynker.com/minecraft/learn-to-code/
@@ -17,8 +16,12 @@
 - https://www.hackerrank.com/
 - https://www.codewars.com/
 - http://pluralsight.com
+- http://lynda.com
+- The Code Player (HTML5, CSS3, Javascript and more...)
+- https://hackr.io/ (Find & Share the Best Online Programming Courses & Tutorials)
+- https://www.tutorialspoint.com
 
-## Internet of Things
+## Internet of Things/Hardware
 - Microsoft MakeCode
 - Adafruit
 - Sparkfun
@@ -28,7 +31,8 @@
 - Arduino
 - Particle
 - Hackster.io
- 
+- Chibitronics
+
 ## Microsoft
 - Microsoft Virtual Academy
 - Microsoft Channel 9
@@ -45,10 +49,8 @@
 - General Assembly Dash
 - Khan Academy
 - MIT OpenCourseware
-- The Odin Project
 - Udacity
 - Udemy
-- The Code Player
 - Bento.io
 - Sololearn
 
@@ -112,3 +114,4 @@
  
 ## Web Dev
 - http://upskillcourses.com/
+- The Odin Project
