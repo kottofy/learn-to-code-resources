@@ -7,7 +7,6 @@
 - http://codeasy.net
 - http://scratchx.org/
 - https://www.tynker.com/minecraft/learn-to-code/
-  - https://www.tynker.com/minecraft/learn-to-code/
 - https://www.madewithcode.com 
 - https://coderdojo.com/
 - https://processing.org/  (Learn to code within the context of the visual arts)
@@ -28,7 +27,7 @@
 - Programmr
 - Treehouse
 - Learn Code the Hard Way
-- Coder D
+- Coder Dojo
 - Tuts+
 - https://www.safaribooksonline.com/
 - https://www.codeschool.com/
