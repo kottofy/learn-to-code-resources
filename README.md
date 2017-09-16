@@ -12,8 +12,10 @@
 - https://coderdojo.com/
 - https://processing.org/  (Learn to code within the context of the visual arts)
 - Skillcrush’s Coding Bootcamp
+- http://www.computerclubhouse.org/
 
 ## General/Languages
+- https://codecareeracademy.com
 - https://codefights.com/
 - http://www.programmr.com/
 - https://www.hackerrank.com/
