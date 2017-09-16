@@ -9,6 +9,9 @@
 - https://www.tynker.com/minecraft/learn-to-code/
   - https://www.tynker.com/minecraft/learn-to-code/
 - https://www.madewithcode.com 
+- https://coderdojo.com/
+- https://processing.org/  (Learn to code within the context of the visual arts)
+- Skillcrush’s Coding Bootcamp
 
 ## General/Languages
 - https://codefights.com/
@@ -17,9 +20,15 @@
 - https://www.codewars.com/
 - http://pluralsight.com
 - http://lynda.com
-- The Code Player (HTML5, CSS3, Javascript and more...)
 - https://hackr.io/ (Find & Share the Best Online Programming Courses & Tutorials)
 - https://www.tutorialspoint.com
+- Programmr
+- Treehouse
+- Learn Code the Hard Way
+- Coder D
+- Tuts+
+- https://www.safaribooksonline.com/
+- https://www.codeschool.com/
 
 ## Internet of Things/Hardware
 - Microsoft MakeCode
@@ -67,7 +76,6 @@
 - David Walsh
 - Scotch.io
 - SitePoint
-- Tuts+
  
 ## Command Line
 - Command Line Power User
@@ -82,6 +90,7 @@
 - HTML5 Dog
 - Marksheet.io
 - Mozilla Developer Network
+- HTML5Rocks
  
 ## JavaScript
 - Eloquent Javascript
@@ -89,6 +98,8 @@
 - JavaScript for Cats
 - NodeSchool
 - Learn JS
+- That JS Dude
+- The Node Beginner Book
  
 ## Wordpress
 - Wordpress.tv
@@ -98,6 +109,7 @@
 - A Byte of Python
 - LearnPython.org
 - Learn Python the Hard Way Book/Website
+- Python Spot
  
 ## Ruby
 - Learn Ruby the Hard Way
@@ -105,6 +117,7 @@
 - Rails Tutorial
 - RubyMonk
 - Try Ruby
+- RUBY KOANS
  
 ## Gaming
 - https://www.polygoncollege.com/
@@ -115,3 +128,33 @@
 ## Web Dev
 - http://upskillcourses.com/
 - The Odin Project
+- TheCodePlayer
+- Learn CSS Layout
+- Marksheet.io
+
+## Mobile/App Dev
+- [Android Develop Guide](https://developer.android.com/training/index.html)
+- [Apple Developer](https://developer.apple.com/)
+- Xamarin University
+
+## Databases
+- Learn SQL the Hard Way
+- MongoDB University
+- MySQLtutorial.org
+- SQL for Web Nerds
+- Vertabelo
+
+## User Experience (UX)/Design
+- HackDesign
+- UX Apprentice
+- UXPin
+
+## Online Communities
+- CodeBuddies
+- CodeNewbie
+- Newbie Coder Warehouse
+
+## In-Person Workshops
+- codebar
+- Girl Develop It
+- Women Who Code
