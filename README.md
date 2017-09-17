@@ -13,6 +13,7 @@
 - Skillcrush’s Coding Bootcamp
 - http://www.computerclubhouse.org/
 - http://pythonturtle.org/
+- https://denki.itch.io/autonauts
 
 ## General/Languages
 - https://codecareeracademy.com
@@ -31,6 +32,7 @@
 - Tuts+
 - https://www.safaribooksonline.com/
 - https://www.codeschool.com/
+- https://colobot.info/
 
 ## Internet of Things/Hardware
 - Microsoft MakeCode
@@ -41,8 +43,10 @@
 - Micro:Bit
 - Arduino
 - Particle
-- Hackster.io
+- Hackster.io (Projects)
 - Chibitronics
+- https://hackaday.com/ (Projects)
+
 
 ## Microsoft
 - Microsoft Virtual Academy
@@ -160,3 +164,14 @@
 - codebar
 - Girl Develop It
 - Women Who Code
+
+## AR/VR/MR
+- http://brackeys.com/preview/create-a-survival-game/
+
+## PreK-12
+- https://www.makewonder.com/Dash (Robotics)
+- http://www.snapcircuits.net/ (Electronics)
+- Cubelets (Robotics)
+- https://littlebits.cc/ (Electronics)
+- https://www.goldieblox.com/products/craft-struction-box (Engineering/Inventing)
+- http://www.thinkfun.com/robot-turtles/ (Board game)
